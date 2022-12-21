@@ -11,7 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-pull_request_template.md
 
 # Editor directories and files
 .vscode/*
