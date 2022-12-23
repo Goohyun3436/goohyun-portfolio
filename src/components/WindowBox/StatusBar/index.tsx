@@ -43,6 +43,7 @@ const StatusBar = () => {
 const StatusBarBlock = styled.div`
   display: flex;
   align-items: center;
+
   .first,
   .second,
   .third {
